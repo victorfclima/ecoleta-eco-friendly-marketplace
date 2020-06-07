@@ -37,15 +37,19 @@ Ecoleta is a simple marketplace, developed during the Next Level Week Program (@
 
 <h2>:heavy_check_mark: Check the solution</h2>
 $ git clone https://github.com/victorfclima/ecoletas-eco-friendly-marketplace.git
-<br>
-After cloning, open your terminal and type:
-```
-npm install
-```
-Then, you can run the project with:
-```
-npm run
-```
-Now, just open your browser and go to http://localhost:3000
+
+**After cloning, open your terminal and type:**
+
+*npm install*
+
+**Then, you can run the project with:**
+
+*npm run*
+
+**Now, just open your browser and go to http://localhost:3000**
+
+<h2>:rocket: Follow me on social media!</h2>
+
+[LinkedIn](https://www.linkedin.com/in/victorfclima)
 
 
