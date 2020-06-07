@@ -2,7 +2,9 @@
 
 Ecoleta is a simple marketplace, developed during the Next Level Week Program (@RocketSeat). This project envolves a front-end with HTML, CSS and Nunjucks and a back-end with NodeJS, express and sqlite3. Hope you enjoy it!
 
-![Project Preview Image](preview1.png)       ![Project Preview Image](preview2.png)
+<img src="https://github.com/victorfclima/ecoletas-eco-friendly-marketplace/blob/master/.github/create-point.png" width="250">
+<img src="https://github.com/victorfclima/ecoletas-eco-friendly-marketplace/blob/master/.github/fail.png" width="250">
+<img src="https://github.com/victorfclima/ecoletas-eco-friendly-marketplace/blob/master/.github/search.png" width="250">
 
 <h2>:computer: What is supposed to do?</h2>
 <ol>
