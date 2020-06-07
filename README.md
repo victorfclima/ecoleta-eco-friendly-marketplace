@@ -2,14 +2,16 @@
 
 Ecoleta is a simple marketplace, developed during the Next Level Week Program (@RocketSeat). This project envolves a front-end with HTML, CSS and Nunjucks and a back-end with NodeJS, express and sqlite3. Hope you enjoy it!
 
-<img src="https://github.com/victorfclima/ecoletas-eco-friendly-marketplace/blob/master/.github/home.png" width="250" height="150"><img src="https://github.com/victorfclima/ecoletas-eco-friendly-marketplace/blob/master/.github/fail.png" width="250" height="150"><img src="https://github.com/victorfclima/ecoletas-eco-friendly-marketplace/blob/master/.github/search.png" width="250" height="150">
-<img src="https://github.com/victorfclima/ecoletas-eco-friendly-marketplace/blob/master/.github/create-point.png" width="250">
+<img src="https://github.com/victorfclima/ecoletas-eco-friendly-marketplace/blob/master/.github/home.png">
+<img src="https://github.com/victorfclima/ecoletas-eco-friendly-marketplace/blob/master/.github/search.png">
 
 <h2>:computer: What is supposed to do?</h2>
 <ol>
 <li>Register collection points for recyclable products;</li>
 <li>List all collection points based in a city search;</li>
 </ol>
+
+<img src="https://github.com/victorfclima/ecoletas-eco-friendly-marketplace/blob/master/.github/create-point.png" width="250">
 
 <h2>:toolbox: What did I use?</h2>
 <ul>
@@ -36,3 +38,14 @@ Ecoleta is a simple marketplace, developed during the Next Level Week Program (@
 <h2>:heavy_check_mark: Check the solution</h2>
 $ git clone https://github.com/victorfclima/ecoletas-eco-friendly-marketplace.git
 <br>
+After cloning, open your terminal and type:
+```
+npm install
+```
+Then, you can run the project with:
+```
+npm run
+```
+Now, just open your browser and go to http://localhost:3000
+
+
